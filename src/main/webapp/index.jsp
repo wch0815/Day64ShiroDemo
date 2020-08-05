@@ -9,7 +9,7 @@
 <form method="post" action="UsersServlet">
     <table>
         <tr>
-            <th>用户名：</th>
+            <th>用户名： </th>
             <td><input type="text" name="user" /></td>
         </tr><tr>
             <th>密码：</th>
